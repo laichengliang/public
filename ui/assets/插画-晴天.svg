@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="344px" height="92px" viewBox="0 0 344 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>插画-晴天</title>
+    <defs>
+        <linearGradient x1="15.2616292%" y1="46.423741%" x2="80.6686044%" y2="53.5762562%" id="linearGradient-1">
+            <stop stop-color="#4397FF" offset="0%"></stop>
+            <stop stop-color="#C1DAE9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="344" height="92"></rect>
+        <path d="M-24,79.5000143 C-8.16666698,75.8333473 6.5,64.0159259 35,66.4999978 C63.5,68.9840698 104.5,83.0318527 145,83.0159397 C185.5,83.0000267 210.961319,68.7667069 236,74.0000243 C267.657715,80.6167822 260.395935,107.457561 259,108.015934 C257,108.815933 69.5,108.349266 -24,108.015934 C-24,108.015934 -24,79.5000143 -24,79.5000143 Z" id="path-4"></path>
+        <filter x="-2.8%" y="-9.5%" width="105.6%" height="137.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-17.1%" y="-17.1%" width="134.2%" height="134.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="8.08823529" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-18.0%" y="-18.0%" width="136.0%" height="136.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="5.51470588" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-37.6%" y="-37.6%" width="175.2%" height="175.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="5.51470588" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-9">
+            <stop stop-color="#FFFFFF" stop-opacity="0.569999993" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工作台20230620" transform="translate(-1552.000000, -136.000000)">
+            <g id="插画-晴天" transform="translate(1552.000000, 136.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Frame-1688" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                <g id="Vector-3" opacity="0.159999996" fill-rule="nonzero" mask="url(#mask-3)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                </g>
+                <path d="M9.5,94.0000095 C23.5,88.6666756 37,82.5000229 67,79.5000091 C97,76.4999952 196.5,88.5000134 240,88.5000134 C283.5,88.5000134 331.5,80.5000002 341.5,82.0000002 C349.5,83.2000003 358.5,89.1666651 362,91.9999981 C362,91.9999981 347,106.49999 347,106.49999 C347,106.49999 -21.5,106.49999 -21.5,106.49999 C-21.5,106.49999 9.5,94.0000095 9.5,94.0000095 Z" id="Vector-1" fill="#FFFFFF" fill-rule="nonzero" opacity="0.680000007" mask="url(#mask-3)"></path>
+                <path d="M217.5,80.3966804 C261,80.3966804 294.5,85.0000191 304.5,86.5000191 C312.5,87.7000189 347,95.5633259 350.5,98.3966599 C350.5,98.3966599 324.5,98.3966599 324.5,98.3966599 C324.5,98.3966599 -44,98.3966599 -44,98.3966599 C-44,98.3966599 -23.5,82.8966656 -23.5,82.8966656 C-16.9669476,80.4078836 -11.5427742,88.9452429 -3.5,86.4999924 C5.69248199,83.7052059 28,73.9999924 42.5,73.9999924 C57,73.9999924 65.8170319,82.9097452 88.5,83.8966093 C133.105362,85.8372478 188.663895,80.3966804 217.5,80.3966804 Z" id="Vector-2" fill="#FFFFFF" fill-rule="nonzero" opacity="0.680000007" mask="url(#mask-3)"></path>
+                <circle id="Ellipse-12" fill-opacity="0.660000026" fill="#FEF6AE" fill-rule="nonzero" filter="url(#filter-6)" mask="url(#mask-3)" cx="332" cy="0" r="71"></circle>
+                <circle id="Ellipse-11" fill-opacity="0.899999976" fill="#F5CD60" fill-rule="nonzero" filter="url(#filter-7)" mask="url(#mask-3)" cx="332" cy="0" r="46"></circle>
+                <circle id="Ellipse-13" fill-opacity="0.899999976" fill="#FC911D" fill-rule="nonzero" filter="url(#filter-8)" mask="url(#mask-3)" cx="332" cy="0" r="22"></circle>
+                <circle id="Ellipse-14" fill="url(#radialGradient-9)" fill-rule="nonzero" opacity="0.200000003" mask="url(#mask-3)" transform="translate(161.999990, 60.116212) rotate(-0.959191) translate(-161.999990, -60.116212) " cx="161.99999" cy="60.1162122" r="7"></circle>
+                <circle id="Ellipse-15" fill="url(#radialGradient-9)" fill-rule="nonzero" opacity="0.200000003" mask="url(#mask-3)" cx="149" cy="66.1162109" r="13"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
